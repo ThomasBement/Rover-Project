@@ -1,9 +1,8 @@
 # Rover-Project
 A team project which I completed for the MECH-2 course at UBC
 
-![Collage](https://user-images.githubusercontent.com/46405515/72674348-2e6aa580-3a2a-11ea-982a-1ca1ae05baca.jpg) - A collage of the bike frame I built.
 
-![MockUp](https://user-images.githubusercontent.com/46405515/72674365-55c17280-3a2a-11ea-8fba-acb5d6bfc21a.jpg) - A mock up of my tube fitting, I ended up practicing my welding on this peice as well.
+- A rear view of the rover displays the CVT pullies and dog clutch mechanism. The idea behind this is that the ratio between the pullies can be varied with a servo. This allows for speed control of the rover without wasting power through friction during breaking or some other method. The dog clutch is necessary to house the return spring that applies force on the CVT pullies allowing for a seating force on the belt.
 
 ![Jig](https://user-images.githubusercontent.com/46405515/72674376-6d98f680-3a2a-11ea-86a5-e277bae86993.jpg) - Jig used to cut angled holed for my frame, tool borrowed from Peter Ryan Metalworks.
 
